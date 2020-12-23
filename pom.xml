@@ -70,7 +70,7 @@
           <tomeeVersion>1.7.1</tomeeVersion>
           <tomeeClassifier>plus</tomeeClassifier>
           <path>/</path>
-          <port>8089</port>
+          <port>8080</port>
         </configuration>
       </plugin>
 
